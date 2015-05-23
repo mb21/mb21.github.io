@@ -1,0 +1,121 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass{article}
+
+\usepackage[]{hyperref}
+\usepackage[utf8x]{inputenc}
+%\usepackage[ngerman]{babel}
+\usepackage[a4paper, top=25mm, left=30mm, right=25mm, bottom=40mm]{geometry}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{setspace}
+\linespread{1.3} %adjust to fit on page (along with  \setlength{\itemsep} further down)
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+\def\name{Mauro Bieg}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{https://mb21.github.io/cv/cv.pdf}
+
+% The following metadata will show up in the PDF properties
+\definecolor{darkblue}{rgb}{0,0,.5}
+\hypersetup{
+  colorlinks = true,
+  urlcolor = darkblue,
+  pdfauthor = {\name},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+\setlength\parindent{0em} % Don't indent paragraphs.
+\setlength{\parskip}{-.7em}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \setlength{\itemsep}{-0.1em} %adjust to fit on page
+    \setlength{\parskip}{-0.6em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+
+\begin{minipage}{10cm}
+	% Place name at left
+	{\huge \name}
+	
+	\vspace{7mm}
+	
+	Mauro Bieg\\
+	Zürich, Switzerland\\
+	
+	\vspace{-3mm}
+	
+	E-mail: mauro.bieg@gmail.com\\
+	
+	\vspace{-3mm}
+	
+	Born: September 28, 1988 in West Berlin \\
+	Citizenship: Swiss
+\end{minipage}
+\begin{minipage}{50mm}
+  \begin{tabular}{r}
+  	\includegraphics[width=50mm]{me.jpg}
+  \end{tabular}
+\end{minipage}
+
+
+
+\vspace{6mm}
+
+$body$
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
