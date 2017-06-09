@@ -61,7 +61,7 @@
 - Analog and digital photography: [flickr.com/photos/28681686@N04](http://www.flickr.com/photos/28681686@N04)
 
 - Projects executed using:
-    - Ruby on Rails, ReactJS, AngularJS, Node.js, Derby.js, MongoDB, Django, PostgreSQL, Silverstripe CMS, jQuery, LaTeX, ConTeXt, Adobe Photoshop, Illustrator, InDesign, Final Cut
+    - Ruby on Rails, ReactJS, AngularJS, Node.js, MongoDB, Django, AWS, Heroku, PostgreSQL, Silverstripe CMS, jQuery, LaTeX, ConTeXt, Adobe Photoshop, Illustrator, InDesign, Final Cut
 
 - Programming languages:
     - JavaScript/ES6, Ruby, Python, Haskell, Java, PHP, C++, SQL, XQuery, XSLT, SPARQL
