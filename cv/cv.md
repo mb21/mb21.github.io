@@ -15,6 +15,8 @@
 
 - Since 2015: Co-founder and developer of [2324.ch](https://2324.ch), Zürich, Switzerland
 
+- Since June 2017: Haskell Developer for [qua-kit](https://github.com/achirkin/qua-kit), part-time, Chair of Information Architecture, ETH Zürich
+
 - 2015: Software Engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich, Switzerland
 
 - 2014: Internship at _[Silk](http://www.silk.co)_, Amsterdam, The Netherlands
@@ -54,14 +56,14 @@
 
 - Open source code: [www.github.com/mb21](https://github.com/mb21)
 
-- Active on [www.stackoverflow.com/users/214446/mb21](http://stackoverflow.com/users/214446/mb21) (>12k reputation)
+- Active on [www.stackoverflow.com/users/214446/mb21](http://stackoverflow.com/users/214446/mb21) (>14k reputation)
 
 - Good knowledge of Mac OS X, Linux and Unix command line including Git
 
 - Analog and digital photography: [flickr.com/photos/28681686@N04](http://www.flickr.com/photos/28681686@N04)
 
 - Projects executed using:
-    - Ruby on Rails, ReactJS, AngularJS, Node.js, MongoDB, Django, AWS, Heroku, PostgreSQL, Silverstripe CMS, jQuery, LaTeX, ConTeXt, Adobe Photoshop, Illustrator, InDesign, Final Cut
+    - Ruby on Rails, React, AngularJS, Node.js, MongoDB, Django, AWS, Heroku, PostgreSQL, Silverstripe CMS, jQuery, LaTeX, ConTeXt, Adobe Photoshop, Illustrator, InDesign, Final Cut
 
 - Programming languages:
     - JavaScript/ES6, Ruby, Python, Haskell, Java, PHP, C++, SQL, XQuery, XSLT, SPARQL
@@ -71,7 +73,7 @@
 
 - My blog: [mb21.github.io/blog](https://mb21.github.io/blog/)
 
-- 2007: Text about the information society: [p2pfoundation.net/Table_of_Contents](http://p2pfoundation.net/Table_of_Contents_(Overview))
+- 2007: Text about the information society: [p2pfoundation.net/Table_of_Contents](http://p2pfoundation.net/Table_of_Contents)
 
 - Various articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
