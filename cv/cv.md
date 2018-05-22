@@ -1,3 +1,10 @@
+# Summary {-}
+
+Computer Scientist with a passion for abstractions and problem solving. Lots of experience as a
+full-stack web developer. Has a "getting things done" attitude, and experience in working in multidisciplinary teams.
+
+<!-- Seeking to... -->
+
 # Education {.unnumbered}
 
 - 2013-2014: Master of Computer Science at ETH Zürich
@@ -15,7 +22,7 @@
 
 - Since 2015: Co-founder and developer of [2324.ch](https://2324.ch), Zürich, Switzerland
 
-- Since June 2017: Haskell Developer for [qua-kit](https://github.com/achirkin/qua-kit), part-time, Chair of Information Architecture, ETH Zürich
+- 2017-2018: Haskell Developer for [qua-kit](https://github.com/achirkin/qua-kit), part-time, Chair of Information Architecture, ETH
 
 - 2015: Software Engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich, Switzerland
 
@@ -30,11 +37,13 @@
 - 2004: Internship and job at *panta rhei pr*, Amriswil, Switzerland (public relations)
 
 
-# Projects {.unnumbered}
+# Select Projects {.unnumbered}
 
-- Since 2014: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to the [Pandoc](http://johnmacfarlane.net/pandoc/) document converter. ([InDesign writer](https://github.com/jgm/pandoc/blob/master/src/Text/Pandoc/Writers/ICML.hs), [image sizes](https://github.com/mb21/pandoc/commit/de1247e79852aa3eda242e1ecdadbb49cdb4d584), language handling, etc.) – Haskell
+- Since 2014: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter – Haskell
 
-- 2016: [pandoc-placetable](https://github.com/mb21/pandoc-placetable) – Haskell program to place external spreadsheets in pandoc documents
+- 2018: [bildungsgeschichte.ch](https://www.bildungsgeschichte.ch) – front-end using React
+
+- 2017-2018: [boomerangideas.com](https://boomerangideas.com) – full-stack using Ruby on Rails
 
 - 2014: [Master thesis](https://github.com/mb21/api-explorer): a GUI tool to map any JSON-based Web API, plus a node server to access it as if it were a HAL Hypermedia API
 
@@ -42,11 +51,7 @@
 
 - 2013: [JSONedit](http://mb21.github.io/JSONedit/): visual JSON editor built with AngularJS
 
-- 2012: [Bachelor Thesis](http://n.ethz.ch/student/biegm/bachelor-thesis.pdf) a web-based, semantic text editor
-
 - 2012: [zig.project21.ch](http://zig.project21.ch/) – Responsive Web Design
-
-- 2011: Graphical RDF-browser and editor prototype – SPARQL, Jena Fuseki
 
 - 2010: Facebook App *[iCalendar to Event](https://github.com/mb21/iCalendar-to-Facebook-Event)* – PHP, MySQL
 
@@ -58,15 +63,16 @@
 
 - Active on [www.stackoverflow.com/users/214446/mb21](http://stackoverflow.com/users/214446/mb21) (>14k reputation)
 
-- Good knowledge of Mac OS X, Linux and Unix command line including Git
-
-- Analog and digital photography: [flickr.com/photos/28681686@N04](http://www.flickr.com/photos/28681686@N04)
+- Good knowledge of Git, and macOS, Linux and Unix command line
 
 - Projects executed using:
-    - Ruby on Rails, React, AngularJS, Node.js, MongoDB, Django, AWS, Heroku, PostgreSQL, Silverstripe CMS, jQuery, LaTeX, ConTeXt, Adobe Photoshop, Illustrator, InDesign, Final Cut
+    - Ruby on Rails, React, AngularJS, Node.js, Django, AWS, Heroku, PostgreSQL,
+      [Yesod](https://www.yesodweb.com), [Reflex](https://github.com/reflex-frp/reflex),
+      Silverstripe CMS, ProcessWire CMS, Jekyll, LaTeX, Adobe Photoshop, Illustrator, InDesign
 
-- Programming languages:
-    - JavaScript/ES6, Ruby, Python, Haskell, Java, PHP, C++, SQL, XQuery, XSLT, SPARQL
+- Languages:
+    - JavaScript/ES6, Ruby, Python, Haskell, Java, PHP, C++
+    - HTML, CSS, SVG, SQL, XQuery, XSLT, SPARQL
 
 
 # Texts {.unnumbered}
