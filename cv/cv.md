@@ -6,7 +6,7 @@ working in multidisciplinary teams and startups.
 
 <!-- Seeking to... -->
 
-# Education {.unnumbered}
+# Education {-}
 
 - 2013-2014: Master of Computer Science at ETH Zürich
 
@@ -19,7 +19,7 @@ working in multidisciplinary teams and startups.
 - 1995–2003: Basic education in Horn, Switzerland
 
 
-# Jobs {.unnumbered}
+# Jobs {-}
 
 - Since 2018: Software engineer at _[Fision Technologies](https://fision-technologies.com)_, Zürich, Switzerland
 
@@ -36,7 +36,7 @@ working in multidisciplinary teams and startups.
 - 2012: Summer internship at *28msec*, Palo Alto, California, USA
 
 
-# Select Projects {.unnumbered}
+# Select Projects {-}
 
 - Since 2014: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter – Haskell
 
@@ -61,7 +61,7 @@ working in multidisciplinary teams and startups.
 - 2005–2010: Website and layout of the [annual reports](http://www.heimatschutz.ch/thurgau/jcms1.0/index.php?option=com_content&task=view&id=26&Itemid=42) of the *Thurgauer Heimatschutz*
 
 
-# Know-how {.unnumbered}
+# Know-how {-}
 
 - Open source code: [www.github.com/mb21](https://github.com/mb21)
 
@@ -79,21 +79,21 @@ working in multidisciplinary teams and startups.
     - Haskell, PureScript, JavaScript, Python, Ruby, Java, PHP, C/C++, HTML, CSS, SQL, SPARQL
 
 
-# Texts {.unnumbered}
+# Texts {-}
 
 - My blog: [mb21.github.io/blog](https://mb21.github.io/blog/)
 
 - Various articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
 
-# Volunteering {.unnumbered}
+# Volunteering {-}
 
 - 2009-2014: [project 21] – student organization for sustainable development, in 2012 president
 
 - 2006–2009: Volunteer for student exchange organization *AFS*
 
 
-# Languages {.unnumbered}
+# Languages {-}
 
 - German: native language
 
