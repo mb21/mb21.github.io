@@ -19,15 +19,31 @@ working in multidisciplinary teams and startups.
 - 1995–2003: Basic education in Horn, Switzerland
 
 
-# Jobs {-}
+# Employment {-}
 
-- Since 2018: Software engineer at _[Fision Technologies](https://fision-technologies.com)_, Zürich, Switzerland
+### Since 2018: Software engineer at _[Fision Technologies](https://fision-technologies.com)_, Zürich, Switzerland {-}
 
-- 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich, Switzerland
+- Fision Technologies is a startup with currently around 20 employees. The product is a mobile app and accompanying back-end. End-users use the app to take photos of their body, from which a 3D-model is constructed, which is used to give size-recommendations for clothes when online-shopping on one of our customers' online stores.
 
-- 2017-2018: Haskell developer for [qua-kit](https://github.com/achirkin/qua-kit), part-time, Chair of Information Architecture, ETH
+- I'm part of the seven-people platform-team, that's tasked with continuously delivering the software into production. I've been working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter are implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and run on Google' Kubernetes Engine.
 
-- 2015: Software engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich, Switzerland
+
+### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich {-}
+
+- My co-founder (a graphic designer) and I won an Impact Hub Zürich Fellowship with the idea of 2324.ch – a participatory hyper-local online news-platform. We quickly on-boarded a marketing/sales guy and soon acquired four paying municipalities. Unfortunately, that was not enough to sustain our growth vision, so we decided to put the project on hold in 2018, currently pending take-over.
+
+- In addition to forming our team and product strategy, I implemented both front- and back-end of the online platform. My decision to go with a simple and proven stack (Ruby on Rails, PostgreSQL and some React) served us well, and allowed us to quickly iterate on the product.
+
+### 2017-2018: Haskell developer for [qua-kit](https://github.com/achirkin/qua-kit), Chair of Information Architecture, ETH Zürich {-}
+
+- In my part-time work, I supported Artem Chirkin, then a PhD student, in continuing the development of qua-kit, a web-based platform that assists urban designers in their design process.
+
+- I worked on both the front- and back-end, which were implemented using [Reflex](https://github.com/reflex-frp/reflex) (via GHCJS) and [Yesod](https://www.yesodweb.com) respectively.
+
+### Previous jobs {-}
+
+- 2015: Software engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich
+<!--Java and AngularJS-->
 
 - 2014: Internship at _[Silk](http://www.silk.co)_, Amsterdam, The Netherlands
 
@@ -42,23 +58,15 @@ working in multidisciplinary teams and startups.
 
 - 2019: [PanWriter](https://panwriter.com), a Markdown editor with pandoc integration – PureScript, JS, Electron
 
-- 2015-2018: [2324.ch](https://2324.ch) – full-stack using Ruby on Rails, React, PostgreSQL
-
 - 2018: [bildungsgeschichte.ch](https://www.bildungsgeschichte.ch) – front-end, React
 
 - 2018: LED matrix display for Impact Hub Zürich – Python on Raspberry Pi
 
-- 2017-2019: [boomerangideas.com](https://boomerangideas.com) – full-stack, Ruby on Rails
+- 2017-2019: [boomerangideas.com](https://boomerangideas.com) – full-stack, Ruby on Rails on AWS
 
-- 2014: [Master thesis](https://github.com/mb21/api-explorer): a GUI tool to map any JSON-based Web API, plus a server to access it as if it were a HAL Hypermedia API
+- 2014: [Master thesis](https://github.com/mb21/api-explorer): a GUI tool to map any JSON-based Web API, plus a Node.js-based server to access it as if it were a HAL Hypermedia API
 
 - 2014: [www.nachhaltigkeitswoche.ch](http://nachhaltigkeitswoche.ch/2014/programm/energie/index.html) – Web Design, ProcessWire CMS
-
-- 2013: [JSONedit](http://mb21.github.io/JSONedit/): visual JSON editor built with AngularJS
-
-- 2010: Facebook App *[iCalendar to Event](https://github.com/mb21/iCalendar-to-Facebook-Event)* – PHP, MySQL
-
-- 2005–2010: Website and layout of the [annual reports](http://www.heimatschutz.ch/thurgau/jcms1.0/index.php?option=com_content&task=view&id=26&Itemid=42) of the *Thurgauer Heimatschutz*
 
 
 # Know-how {-}
@@ -69,28 +77,9 @@ working in multidisciplinary teams and startups.
 
 - Good knowledge of version control worksflows (using Git) and macOS/Linux utilities
 
-- Projects executed using:
-    - Ruby on Rails, React, AngularJS, Node.js, Django, AWS, Heroku, PostgreSQL,
-      Docker, Kubernetes, REST APIs,
-      [Yesod](https://www.yesodweb.com), [Reflex](https://github.com/reflex-frp/reflex),
-      Silverstripe CMS, ProcessWire CMS, Jekyll, LaTeX, Adobe Photoshop, Illustrator, InDesign
+- Languages: Haskell, PureScript, JavaScript, Python, Ruby, Java, PHP, C/C++, HTML, CSS, SQL
 
-- Languages:
-    - Haskell, PureScript, JavaScript, Python, Ruby, Java, PHP, C/C++, HTML, CSS, SQL, SPARQL
-
-
-# Texts {-}
-
-- My blog: [mb21.github.io/blog](https://mb21.github.io/blog/)
-
-- Various articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
-
-
-# Volunteering {-}
-
-- 2009-2014: [project 21] – student organization for sustainable development, in 2012 president
-
-- 2006–2009: Volunteer for student exchange organization *AFS*
+- Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
 
 # Languages {-}
