@@ -1,6 +1,6 @@
 # Summary {-}
 
-Computer Scientist with a passion for abstractions, problem solving and processes. Has a \
+Computer Scientist (MSc) with a passion for abstractions, problem solving and processes. Has a \
 "getting things done" attitude and experience
 working in multidisciplinary teams and startups.
 
@@ -25,7 +25,7 @@ working in multidisciplinary teams and startups.
 
 - Fision Technologies is a startup with currently around 20 employees. The product is a mobile app and accompanying back-end. End-users use the app to take photos of their body, from which a 3D-model is constructed, which is used to give size-recommendations for clothes when online-shopping on one of our customers' online stores.
 
-- I'm part of the seven-people platform-team, that's tasked with continuously delivering the software into production. I've been working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter are implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and run on Google' Kubernetes Engine.
+- I'm part of the seven-people platform-team, that's tasked with continuously delivering the software into production. I've been working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter are implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and run on Google's Kubernetes Engine.
 
 
 ### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich {-}
@@ -38,7 +38,7 @@ working in multidisciplinary teams and startups.
 
 - In my part-time work, I supported Artem Chirkin, then a PhD student, in continuing the development of qua-kit, a web-based platform that assists urban designers in their design process.
 
-- I worked on both the front- and back-end, which were implemented using [Reflex](https://github.com/reflex-frp/reflex) (via GHCJS) and [Yesod](https://www.yesodweb.com) respectively.
+- I worked on both the front- and back-end, which were implemented using [Reflex](https://github.com/reflex-frp/reflex) (a functional reactive programming framework on GHCJS) and [Yesod](https://www.yesodweb.com) respectively.
 
 ### Previous jobs {-}
 
@@ -75,7 +75,7 @@ working in multidisciplinary teams and startups.
 
 - Active on [www.stackoverflow.com/users/214446/mb21](http://stackoverflow.com/users/214446/mb21) (>19k reputation)
 
-- Good knowledge of version control worksflows (using Git) and macOS/Linux utilities
+- Good knowledge of version control workflows (using Git) and macOS/Linux utilities
 
 - Languages: Haskell, PureScript, JavaScript, Python, Ruby, Java, PHP, C/C++, HTML, CSS, SQL
 
