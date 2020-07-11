@@ -30,7 +30,13 @@
 \providecommand{\tightlist}{%
 \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-\def\name{Mauro Bieg}
+$if(numbersections)$
+\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
+$else$
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+$endif$
+
+\def\name{$author$}
 
 % Replace this with a link to your CV if you like, or set it empty
 % (as in \def\footerlink{}) to remove the link in the footer:
@@ -88,7 +94,6 @@
 	
 	\vspace{7mm}
 	
-	Mauro Bieg\\
 	Zürich, Switzerland\\
 	
 	\vspace{-3mm}
@@ -107,8 +112,6 @@
 \end{minipage}
 
 
-
-\vspace{6mm}
 
 $body$
 
