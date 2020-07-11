@@ -1,3 +1,13 @@
+## My CV
+
+- [PDF](https://mb21.github.io/cv/cv.pdf)
+- [Markdown](cv.md)
+
+---
+
+### Generating the PDF
+
+
 With TeX Live Basic:
 
     sudo tlmgr update --self
