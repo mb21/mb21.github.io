@@ -29,10 +29,11 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 
 ### Since 2019: Team Lead at [TX Group](https://tx.group) (formerly [Tamedia](https://www.tamedia.ch)), Zürich, Switzerland
 
-- TX Group is the largest media group in Switzerland. As team lead for the web front-ends of the newspapers with a subscription business model, our team of nine developers is responsible for twelve websites, including [tagesanzeiger.ch](https://www.tagesanzeiger.ch) and [derbund.ch](https://www.derbund.ch/). We handle a sustained load of 150'000 requests/min, with peaks exceeding 300'000.
+- TX Group is the largest media group in Switzerland. As technical team lead for the web front-ends of the newspapers with a subscription business model, our team of nine developers is responsible for twelve websites, including [tagesanzeiger.ch](https://www.tagesanzeiger.ch) and [derbund.ch](https://www.derbund.ch/). We handle a sustained load of 150'000 requests/min, with peaks exceeding 300'000.
 
 <!--
   - I helped grow skill-sets of my team members, improve inter-team communication and processes
+  - Next.js, introduced TypeScript
   - AWS
   -->
 
