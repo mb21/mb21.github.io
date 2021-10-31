@@ -5,31 +5,16 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-Computer Scientist (MSc) with a "getting things done" attitude and experience
+Computer Scientist (MSc ETH Zürich) with a "getting things done" attitude and experience
 working in multidisciplinary teams, big companies and startups.
 I enjoy finding solutions that are as simple as possible, but no simpler.
-
-
 <!-- Seeking to... -->
-
-# Education
-
-- 2013-2014: Master of Computer Science at ETH Zürich
-
-- 2008-2013: Bachelor of Computer Science at ETH Zürich
-
-- 2005-2006: Exchange year in Norway (high school in Kristiansund)
-
-- 2003–2008: High school: Kantonsschule Romanshorn, Switzerland
-
-- 1995–2003: Basic education in Horn, Switzerland
-
 
 # Employment
 
-### Since 2019: Team Lead at [TX Group](https://tx.group) (formerly [Tamedia](https://www.tamedia.ch)), Zürich, Switzerland
+### Since 2019: Technical team lead at [TX Group](https://tx.group), Zürich, Switzerland
 
-- TX Group is the largest media group in Switzerland. As technical team lead for the web front-ends of the newspapers with a subscription business model, our team of nine developers is responsible for twelve websites, including [tagesanzeiger.ch](https://www.tagesanzeiger.ch) and [derbund.ch](https://www.derbund.ch/). We handle a sustained load of 150'000 requests/min, with peaks exceeding 300'000.
+- TX Group (formerly [Tamedia](https://www.tamedia.ch)) is the largest media group in Switzerland. As the technical team lead for the web front-ends of the subscription news titles, my team of nine developers is responsible for the platform delivering thirteen websites, including [tagesanzeiger.ch](https://www.tagesanzeiger.ch) and [derbund.ch](https://www.derbund.ch/). We handle a sustained load of 150'000 requests/min, with peaks exceeding 300'000.
 
 <!--
   - I helped grow skill-sets of my team members, improve inter-team communication and processes
@@ -69,15 +54,24 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 - 2012: Summer internship at *28msec*, Palo Alto, California, USA
 
 
+# Education
+
+- 2013-2014: Master of Computer Science at ETH Zürich
+
+- 2008-2013: Bachelor of Computer Science at ETH Zürich
+
+- 2005-2006: Exchange year in Norway (high school in Kristiansund)
+
+- 2003–2008: High school: Kantonsschule Romanshorn, Switzerland
+
+- 1995–2003: Basic education in Horn, Switzerland
+
+
 # Select Projects
 
 - Since 2014: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter – Haskell
 
 - 2019: [PanWriter](https://panwriter.com), a Markdown editor with pandoc integration – PureScript, JS, Electron
-
-<!--
-- 2018: [bildungsgeschichte.ch](https://www.bildungsgeschichte.ch) – front-end, React
--->
 
 - 2018: LED matrix display for Impact Hub Zürich – Python on Raspberry Pi
 
@@ -86,13 +80,13 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 
 # Know-how
 
-- Open source code: [www.github.com/mb21](https://github.com/mb21)
-
-- Active on [www.stackoverflow.com/users/214446/mb21](http://stackoverflow.com/users/214446/mb21) (>24k reputation)
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>29k rep)
 
 - Good knowledge of version control workflows (using Git) and macOS/Linux utilities
 
-- Languages: Haskell, <!-- PureScript,--> TypeScript, JavaScript, Python, Ruby, Java, PHP, C/C++, HTML, CSS, SQL
+- Programming languages:
+  - extensive experience: TypeScript/JavaScript, Haskell, Python, Ruby, HTML/CSS, SQL
+  - some experience: Rust, Java, PureScript, PHP, C/C++
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
