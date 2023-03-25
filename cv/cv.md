@@ -5,29 +5,23 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-Computer Scientist (MSc ETH Zürich) with a "getting things done" attitude and experience
-working in multidisciplinary teams, big companies and startups.
+Computer Scientist (MSc ETH Zürich) with a "getting things done" attitude and experience working in multidisciplinary teams, big companies and startups.
 I enjoy finding solutions that are as simple as possible, but no simpler.
 <!-- Seeking to... -->
 
 # Employment
 
-### Since 2019: Technical team lead at [TX Group](https://tx.group), Zürich, Switzerland
+### Since 2019: Technical team lead at [Tamedia](https://www.tamedia.ch), Zürich, Switzerland
 
-- TX Group (formerly [Tamedia](https://www.tamedia.ch)) is the largest media group in Switzerland. As the technical team lead for the web front-ends of the subscription news titles, my team of nine developers is responsible for the platform delivering thirteen websites, including [tagesanzeiger.ch](https://www.tagesanzeiger.ch) and [derbund.ch](https://www.derbund.ch/). We handle a sustained load of 150'000 requests/min, with peaks exceeding 300'000.
+- Tamedia is one the largest media groups in Switzerland. As the technical team lead for the web front-ends and native apps, my team of 10 developers is responsible for the platform delivering thirteen websites, including [www.tagesanzeiger.ch](https://www.tagesanzeiger.ch). Our frontend service handles a sustained load of 150'000 requests/min, with peaks exceeding 300'000. We have a modern CI/CD workflow with feature-branch-deployments, and auto-deployment to production as soon as a feature is merged.
 
-<!--
-  - I helped grow skill-sets of my team members, improve inter-team communication and processes
-  - Next.js, introduced TypeScript
-  - AWS
-  -->
+- I helped grow the skill-sets of my team members and significantly improved inter-team communication and processes. One of the first things I did was to move our team and our Next.js codebase from JavaScript to TypeScript. One of the last things was to move development of native iOS and Android apps in-house and re-architecting them as hybrid apps (Swift/Kotlin plus WebViews).
 
-
-### 2018-2019: Software engineer at _[Fision Technologies](https://fision-technologies.com)_, Zürich
+### 2018-2019: Software engineer at _[Fision Technologies](https://web.archive.org/web/20191225205351/https://www.fision-technologies.com/)_ (since acquired by Zalando), Zürich
 
 - Fision Technologies is a startup with at that time around 20 employees. The product is a mobile app and accompanying back-end. End-users use the app to take photos of their body, from which a 3D-model is constructed, which is used to give size-recommendations for clothes when online-shopping on one of our customers' online stores.
 
-- I was part of the seven-people platform-team, that was tasked with continuously delivering the software into production. I was working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter were implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and ran on Google's Kubernetes Engine.
+- I was working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter were implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and ran on Google's Kubernetes Engine.
 
 
 ### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich
@@ -47,7 +41,7 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 - 2015: Software engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich
 <!--Java and AngularJS-->
 
-- 2014: Internship at _[Silk](http://www.silk.co)_, Amsterdam, The Netherlands
+- 2014: Internship at _[Silk](https://web.archive.org/web/20170327165214/https://www.silk.co/)_, Amsterdam, The Netherlands
 
 - 2011-2014: Webmaster of the Departement of Computer Science at ETH Zürich
 
@@ -69,7 +63,7 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 
 # Select Projects
 
-- Since 2014: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter – Haskell
+- 2014-2021: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter – Haskell
 
 - 2019: [PanWriter](https://panwriter.com), a Markdown editor with pandoc integration – PureScript, JS, Electron
 
@@ -78,15 +72,17 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 - 2014: [Master thesis](https://github.com/mb21/api-explorer): a GUI tool to map any JSON-based Web API, plus a Node.js-based server to access it as if it were a HAL Hypermedia API
 
 
-# Know-how
+# Experience
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>29k rep)
-
-- Good knowledge of version control workflows (using Git) and macOS/Linux utilities
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>33k rep)
 
 - Programming languages:
-  - extensive experience: TypeScript/JavaScript, Haskell, Python, Ruby, HTML/CSS, SQL
-  - some experience: Rust, Java, PureScript, PHP, C/C++
+  - extensive experience: TypeScript/JavaScript (React, Next.js, Express.js), Haskell, Ruby (Rails and Jekyll), Python, HTML/CSS, SQL
+  - some experience: Rust, Java, PHP, C/C++
+
+- Technologies used in production:
+  - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, Cloudfront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCi, Netlify
+  - [OpenApi](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, unit- and integration tests
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
@@ -100,5 +96,3 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 - English: Cambridge Certificate in Advanced English Grade A
 
 - Norwegian, Swedish: fluent
-
-- French: basic knowledge
