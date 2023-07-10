@@ -5,17 +5,22 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-Computer Scientist (MSc ETH Zürich) with a "getting things done" attitude and experience working in multidisciplinary teams, big companies and startups.
-I enjoy finding solutions that are as simple as possible, but no simpler.
-<!-- Seeking to... -->
+Computer Scientist (MSc ETH Zürich) that gets things done.™ Extensive experience designing code and processes in big companies and startups.
+I enjoy finding solutions that are as simple as possible, but no simpler. Always looking to put a dent in the universe.
 
 # Employment
 
-### Since 2019: Technical team lead at [Tamedia](https://www.tamedia.ch), Zürich, Switzerland
+### Since 2023: CTO [Polaris News](https://polarisnews.ch/), Zürich, Switzerland
 
-- Tamedia is one the largest media groups in Switzerland. As the technical team lead for the web front-ends and native apps, my team of 10 developers is responsible for the platform delivering thirteen websites, including [www.tagesanzeiger.ch](https://www.tagesanzeiger.ch). Our frontend service handles a sustained load of 150'000 requests/min, with peaks exceeding 300'000. We have a modern CI/CD workflow with feature-branch-deployments, and auto-deployment to production as soon as a feature is merged.
+- Startup building a user-generated local news platform. Article generation powered by ChatGPT.
 
-- I helped grow the skill-sets of my team members and significantly improved inter-team communication and processes. One of the first things I did was to move our team and our Next.js codebase from JavaScript to TypeScript. One of the last things was to move development of native iOS and Android apps in-house and re-architecting them as hybrid apps (Swift/Kotlin plus WebViews).
+### 2019-2023: Technical team lead front-end at [Tamedia](https://www.tamedia.ch), Zürich, Switzerland
+
+- Tamedia is one the largest media groups in Switzerland. As the technical team lead for the web front-ends and native apps, my team of 11 developers was responsible for the platform delivering 13 websites, including [www.tagesanzeiger.ch](https://www.tagesanzeiger.ch). Our frontend service handles a sustained load of 150'000 requests/min, with peaks exceeding 500'000. We have a modern CI/CD workflow with feature-branch-deployments, and auto-deployment to production as soon as a feature is merged.
+
+- I helped grow the skill-sets of my team members, and by building trust, significantly improved communication and processes between various teams and stakeholders. One of the first things I did was to move our team and our Next.js codebase from JavaScript to TypeScript. One of the last things was to move the development of our native apps in-house; hired one iOS and one Android dev, re-architected the apps as hybrid apps (Swift/Kotlin plus WebViews) and as promised, launched within a year.
+
+\newpage
 
 ### 2018-2019: Software engineer at _[Fision Technologies](https://web.archive.org/web/20191225205351/https://www.fision-technologies.com/)_ (since acquired by Zalando), Zürich
 
@@ -74,15 +79,15 @@ I enjoy finding solutions that are as simple as possible, but no simpler.
 
 # Experience
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>33k rep)
-
 - Programming languages:
   - extensive experience: TypeScript/JavaScript (React, Next.js, Express.js), Haskell, Ruby (Rails and Jekyll), Python, HTML/CSS, SQL
   - some experience: Rust, Java, PHP, C/C++
 
 - Technologies used in production:
-  - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, Cloudfront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCi, Netlify
+  - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCi, Netlify
   - [OpenApi](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, unit- and integration tests
+
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>34k rep)
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
