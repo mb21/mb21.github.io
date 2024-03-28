@@ -12,7 +12,8 @@ I enjoy finding solutions that are as simple as possible, but no simpler. Always
 
 ### Since 2023: CTO [Polaris News](https://polarisnews.ch/), Zürich, Switzerland
 
-- Startup building a user-generated local news platform. Article generation powered by ChatGPT.
+- Startup building a user-generated hyper-local news platform. User interaction and article generation with generative AI. 
+- Hired part of the team. We followed the lean startup methodology, rapid prototyping, user-centered design, business model generation, etc. Implemented MVP using Astro, SolidJS, Supabase and Render.
 
 ### 2019-2023: Technical team lead front-end at [Tamedia](https://www.tamedia.ch), Zürich, Switzerland
 
@@ -87,7 +88,7 @@ I enjoy finding solutions that are as simple as possible, but no simpler. Always
   - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCi, Netlify
   - [OpenApi](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, unit- and integration tests
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>34k rep)
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>36k rep)
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
