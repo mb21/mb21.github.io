@@ -86,7 +86,7 @@ I enjoy finding solutions that are as simple as possible, but no simpler. Always
 
 - Technologies used in production:
   - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCI, Netlify
-  - [OpenApi](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, unit- and integration tests
+  - [OpenAPI](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, HTTP streaming (for both HTML and JSON/SSE), unit- and integration tests
 
 - Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>37k rep)
 
