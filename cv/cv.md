@@ -81,14 +81,14 @@ I enjoy finding solutions that are as simple as possible, but no simpler. Always
 # Experience
 
 - Programming languages:
-  - extensive experience: TypeScript/JavaScript (React, Next.js, Express.js), Haskell, Ruby (Rails and Jekyll), Python, HTML/CSS, SQL
+  - extensive experience: TypeScript/JavaScript (React, Solid, Astro, Next.js, Express.js, kysely), Haskell, Ruby (Rails and Jekyll), Python, HTML/CSS, SQL
   - some experience: Rust, Java, PHP, C/C++
 
 - Technologies used in production:
-  - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCi, Netlify
+  - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCI, Netlify
   - [OpenApi](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, unit- and integration tests
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>36k rep)
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>37k rep)
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
