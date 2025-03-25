@@ -10,9 +10,9 @@ I enjoy finding solutions that are as simple as possible, but no simpler. Always
 
 # Employment
 
-### Since 2023: CTO [Polaris News](https://polarisnews.ch/), Zürich, Switzerland
+### Since 2023: CTO [Spatz](https://www.spatz.news) (formerly Polaris News), Zürich, Switzerland
 
-- Startup building a user-generated hyper-local news platform. User interaction and article generation with generative AI. 
+- Startup building a user-generated hyper-local news platform.
 - Hired part of the team. We followed the lean startup methodology, rapid prototyping, user-centered design, business model generation, etc. Implemented MVP using Astro, SolidJS, Supabase and Render.
 
 ### 2019-2023: Technical team lead front-end at [Tamedia](https://www.tamedia.ch), Zürich, Switzerland
