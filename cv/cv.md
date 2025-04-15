@@ -5,8 +5,7 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-Computer Scientist (MSc ETH Zürich) that gets things done.™ Extensive experience designing code and processes in big companies and startups.
-I enjoy finding solutions that are as simple as possible, but no simpler. Always looking to put a dent in the universe.
+I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy getting hands-on with the product, crafting code, and finding solutions that are as simple as possible (but no simpler). Yet the product is dead without the team building and iterating on it. I can provide leadership and mentorship, fostering an environment where the team feels safe to grow and experiment in.
 
 # Employment
 
@@ -88,7 +87,7 @@ I enjoy finding solutions that are as simple as possible, but no simpler. Always
   - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCI, Netlify
   - [OpenAPI](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, HTTP streaming (for both HTML and JSON/SSE), unit- and integration tests
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>37k rep)
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>39k rep)
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
 
