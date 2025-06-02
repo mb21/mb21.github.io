@@ -5,18 +5,17 @@
 
 ---
 
-### Generating the PDF
+### Installing
 
+    brew install pandoc
+    brew install --cask basictex
 
-With TeX Live Basic:
-
-    sudo tlmgr update --self
     sudo tlmgr update --all
+    sudo tlmgr update --self
     sudo tlmgr install ucs
     sudo tlmgr install sectsty
-    # sudo tlmgr install palatino
     sudo tlmgr install collection-fontsrecommended
 
-Then:
+### Generating the PDF
 
     pandoc --template template.tex cv.md -o cv.pdf
