@@ -5,7 +5,8 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy getting hands-on with the product, crafting code, and finding solutions that are as simple as possible (but no simpler). Yet the product is dead without the team building and iterating on it. I can provide leadership and mentorship, fostering an environment where the team feels safe to grow and experiment in.
+I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy getting hands-on with the product, crafting code, and finding solutions that are as simple as possible (but no simpler). Yet what is the product without the team building and iterating on it? Nothing but dead code. I can provide leadership and mentorship, fostering an environment where the team feels safe to grow and experiment in.
+
 
 # Employment
 
@@ -20,14 +21,11 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
 
 - I helped grow the skill-sets of my team members, and by building trust, significantly improved communication and processes between various teams and stakeholders. One of the first things I did was to move our team and our Next.js codebase from JavaScript to TypeScript. One of the last things was to move the development of our native apps in-house; hired one iOS and one Android dev, re-architected the apps as hybrid apps (Swift/Kotlin plus WebViews) and as promised, launched within a year.
 
-\newpage
-
 ### 2018-2019: Software engineer at _[Fision Technologies](https://web.archive.org/web/20191225205351/https://www.fision-technologies.com/)_ (since acquired by Zalando), Zürich
 
 - Fision Technologies is a startup with at that time around 20 employees. The product is a mobile app and accompanying back-end. End-users use the app to take photos of their body, from which a 3D-model is constructed, which is used to give size-recommendations for clothes when online-shopping on one of our customers' online stores.
 
 - I was working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter were implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and ran on Google's Kubernetes Engine.
-
 
 ### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich
 
