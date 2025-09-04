@@ -5,41 +5,39 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy getting hands-on with the product, crafting code, and finding solutions that are as simple as possible (but no simpler). Yet what is the product without the team building and iterating on it? Nothing but dead code. I can provide leadership and mentorship, fostering an environment where the team feels safe to grow and experiment in.
+I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy getting hands-on with the product, crafting code, and finding solutions that are as simple as possible, but no simpler. Yet what is the product without the team building and iterating on it? Nothing but dead code. I can provide leadership and mentorship, fostering an environment where the team feels safe to grow and experiment in.
 
 
 # Employment
 
-### Since 2023: CTO [Spatz](https://www.spatz.news) (formerly Polaris News), Zürich, Switzerland
+### Since 2025: Senior full-stack engineer at [Everyman](https://everyman.health/), Zürich
 
-- Startup building a user-generated hyper-local news platform.
-- Hired part of the team. We followed the lean startup methodology, rapid prototyping, user-centered design, business model generation, etc. Implemented MVP using Astro, SolidJS, Supabase and Render.
+- As the second engineer at the fast growing startup, I help stabilize and evolve the tech stack.
 
-### 2019-2023: Technical team lead front-end at [Tamedia](https://www.tamedia.ch), Zürich, Switzerland
+### 2023-2025: CTO at [Spatz](https://www.spatz.news) (formerly Polaris News), Zürich
 
-- Tamedia is one the largest media groups in Switzerland. As the technical team lead for the web front-ends and native apps, my team of 11 developers was responsible for the platform delivering 13 websites, including [www.tagesanzeiger.ch](https://www.tagesanzeiger.ch). Our frontend service handles a sustained load of 150'000 requests/min, with peaks exceeding 500'000. We have a modern CI/CD workflow with feature-branch-deployments, and auto-deployment to production as soon as a feature is merged.
+- Startup building up a user-generated hyper-local news platform. We followed the lean startup methodology, rapid prototyping, user-centered design, business model generation, etc. I hired part of the team, and implemented the product using Astro, SolidJS and Supabase.
+
+### 2019-2023: Technical team lead front-end at [Tamedia](https://www.tamedia.ch), Zürich
+
+- Tamedia is one the largest media groups in Switzerland. As the technical team lead for the web front-ends and native apps, my team of 11 developers is responsible for the platform delivering 13 websites, including [www.tagesanzeiger.ch](https://www.tagesanzeiger.ch). Our frontend service handles a sustained load of 150k reqs/min, with peaks exceeding 500k. Within Tamedia, our team pioneered a CI/CD workflow with feature-branch-deployments, and auto-deployment to production as soon as a feature is merged.
 
 - I helped grow the skill-sets of my team members, and by building trust, significantly improved communication and processes between various teams and stakeholders. One of the first things I did was to move our team and our Next.js codebase from JavaScript to TypeScript. One of the last things was to move the development of our native apps in-house; hired one iOS and one Android dev, re-architected the apps as hybrid apps (Swift/Kotlin plus WebViews) and as promised, launched within a year.
 
 ### 2018-2019: Software engineer at _[Fision Technologies](https://web.archive.org/web/20191225205351/https://www.fision-technologies.com/)_ (since acquired by Zalando), Zürich
 
-- Fision Technologies is a startup with at that time around 20 employees. The product is a mobile app and accompanying back-end. End-users use the app to take photos of their body, from which a 3D-model is constructed, which is used to give size-recommendations for clothes when online-shopping on one of our customers' online stores.
-
-- I was working on both the front-end (React, TypeScript, GraphQL) and the back-end services. The latter were implemented using Python (Falcon and SQLAlchemy), exposed as REST APIs and ran on Google's Kubernetes Engine.
+- Fision Technologies was a startup offering an app to take photos of your body, from which a 3D-model was constructed, which was used to give size-recommendations for clothes when online-shopping. I was working on both the React front-end, and Python back-end services.
 
 ### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich
 
-- My co-founder (a graphic designer) and I won an Impact Hub Zürich Fellowship with the idea of 2324.ch – a participatory hyper-local online news-platform. We quickly on-boarded a marketing/sales guy and soon acquired four paying municipalities. Unfortunately, that was not enough to sustain our growth vision, so we decided to hand-over the project and our customers to Crossiety, a startup sharing our vision of an online village square.
+- My co-founder and I won an Impact Hub Zürich Fellowship with the idea of 2324.ch – a participatory hyper-local online news-platform. We quickly acquired four paying municipalities. Unfortunately, that was not enough to sustain our growth vision, so we decided to sell our company to [Crossiety](https://www.crossiety.ch/), a startup sharing our vision of an online village square.
 
-- In addition to forming our team and product strategy, I implemented both front- and back-end of the online platform. My decision to go with a simple and proven stack (Ruby on Rails, PostgreSQL and some React) served us well, and allowed us to quickly iterate on the product.
+- In addition to forming our team and product strategy, I implemented both front- and back-end. My decision to go with a simple and proven stack (Ruby on Rails, PostgreSQL and some React) served us well, and allowed us to quickly iterate on the product.
 
-### 2017-2018: Haskell developer for [qua-kit](https://github.com/achirkin/qua-kit), Chair of Information Architecture, ETH Zürich
-
-- In my part-time work, I supported Artem Chirkin, then a PhD student, in continuing the development of qua-kit, a web-based platform that assists urban designers in their design process.
-
-- I worked on both the front- and back-end, which were implemented using [Reflex](https://github.com/reflex-frp/reflex) (a functional reactive programming framework on GHCJS) and [Yesod](https://www.yesodweb.com) respectively.
 
 ### Previous jobs
+
+- 2017-2018: Haskell developer for [qua-kit](https://github.com/achirkin/qua-kit) at the Chair of Information Architecture, ETH Zürich
 
 - 2015: Software engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich
 <!--Java and AngularJS-->
@@ -63,16 +61,21 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
 
 - 1995–2003: Basic education in Horn, Switzerland
 
+\newpage
 
 # Select Projects
 
-- 2014-2021: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter – Haskell
+- 2025: Created [Mastro](https://mastrojs.github.io/) – a static site generator and web framework built from first principles.
 
-- 2019: [PanWriter](https://panwriter.com), a Markdown editor with pandoc integration – PureScript, JS, Electron
+- 2014-2021: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter.
 
+- 2019: [PanWriter](https://panwriter.com), a Markdown editor with pandoc integration.
+
+<!--
 - 2018: LED matrix display for Impact Hub Zürich – Python on Raspberry Pi
 
 - 2014: [Master thesis](https://github.com/mb21/api-explorer): a GUI tool to map any JSON-based Web API, plus a Node.js-based server to access it as if it were a HAL Hypermedia API
+-->
 
 
 # Experience
@@ -85,9 +88,9 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
   - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCI, Netlify
   - [OpenAPI](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, HTTP streaming (for both HTML and JSON/SSE), unit- and integration tests
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>39k rep)
+- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>40k rep)
 
-- Writing: [mb21.github.io/blog](https://mb21.github.io/blog/), articles for the [Free Software Magazine](http://freesoftwaremagazine.com/authors/Mauro%20Bieg/)
+- Writing: [mb21.github.io/blog](https://mb21.github.io/blog/)
 
 - Talks: [Pandoc at HaskellerZ](https://www.youtube.com/watch?v=pvWG4OgkZes)
 
