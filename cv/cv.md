@@ -28,7 +28,7 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
 
 - Fision Technologies was a startup offering an app to take photos of your body, from which a 3D-model was constructed, which was used to give size-recommendations for clothes when online-shopping. I was working on both the React front-end, and Python back-end services.
 
-### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://2324.ch), Zürich
+### 2015-2018: Co-founder and full-stack developer of [2324.ch](https://web.archive.org/web/20250227191627/http://2324.ch/), Zürich
 
 - My co-founder and I won an Impact Hub Zürich Fellowship with the idea of 2324.ch – a participatory hyper-local online news-platform. We quickly acquired four paying municipalities. Unfortunately, that was not enough to sustain our growth vision, so we decided to sell our company to [Crossiety](https://www.crossiety.ch/), a startup sharing our vision of an online village square.
 
