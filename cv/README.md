@@ -18,4 +18,4 @@
 
 ### Generating the PDF
 
-    pandoc --template template.tex cv.md -o cv.pdf
+    pandoc --template template.tex cv.md -o ../routes/cv/cv.pdf

@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "start": "deno serve --watch=. --allow-read --allow-env @mastrojs/mastro/server",
+    "generate": "deno run -A @mastrojs/mastro/generator"
+  },
+  "fmt": {
+    "lineWidth": 100
+  },
+  "imports": {
+    "@mastrojs/feed": "jsr:@mastrojs/feed@^0.0.1",
+    "@mastrojs/mastro": "jsr:@mastrojs/mastro@^0",
+    "@mastrojs/markdown": "jsr:@mastrojs/markdown@^0"
+  }
+}

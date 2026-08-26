@@ -1,0 +1,255 @@
+:root {
+  --primary-color: #e60000;
+  --grey: #818181;
+  --columns: 1fr 40em;
+  --layout-space: 1.75rem;
+  @media (min-width: 750px) {
+    --layout-space: 3rem;
+  }
+}
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  height: 100%;
+  color: #1a1a1a;
+  font-size: 18px;
+  @media (min-width: 1000px) {
+    font-size: 20px;
+  }
+}
+body {
+  margin: 0;
+  min-height: 100%;
+  word-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+  background-color: var(--primary-color);
+  > * {
+    background-color: white;
+  }
+}
+p, h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.7em;
+  hyphens: auto;
+}
+h2 {
+  line-height: 1.5;
+}
+a {
+  color: #1a1a1a;
+  &::visited {
+    color: #1a1a1a;
+  }
+}
+img {
+  max-width: 100%;
+}
+ol, ul {
+  margin-top: 1.7em;
+  padding-left: 1.2em;
+  @media (min-width: 1000px) {
+    padding-left: 0;
+  }
+}
+li > ol, li > ul {
+  margin-top: 0;
+  padding-left: 1.7em;
+}
+blockquote {
+  margin: 1.7em 0 1.7em -1.25em;
+  padding-left: 1.25em;
+  border-left: 2px solid #e6e6e6;
+  font-style: italic;
+  @media (min-width: 1000px) {
+    &:has(> ol) {
+      margin-right: 1.75em;
+      padding-left: 1.75em;
+    }
+  }
+}
+code {
+  font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+  background-color: #f0f0f0;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
+pre {
+  line-height: 1.5em;
+  padding: 1em;
+  --syntax-background: #f0f0f0;
+  background-color: #f0f0f0;
+  overflow: auto;
+}
+pre code {
+  padding: 0;
+  overflow: visible;
+}
+hr {
+  background-color: #1a1a1a;
+  border: none;
+  height: 1px;
+  margin-top: 1.7em;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+th, td {
+  border-bottom: 1px solid lightgray;
+  padding: 1em 3em 1em 0;
+}
+
+.site-header {
+  a {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    padding: calc(var(--layout-space) / 2) var(--layout-space)
+      calc(var(--layout-space) / 4) var(--layout-space);
+    display: inline-block;
+  }
+}
+
+main {
+  padding: 1px 0 3em 0;
+}
+
+footer {
+  border-top: 1px solid var(--primary-color);
+  padding: var(--layout-space);
+
+  a:not(:hover) {
+    text-decoration: none;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  p,
+  li {
+    font-size: 0.8em;
+    letter-spacing: -.3px;
+    color: #828282;
+  }
+
+  .icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top: 3px;
+  }
+}
+
+.home {
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+.post-page {
+  @media (min-width: 1000px) {
+    display: grid;
+    grid-template-columns: var(--columns);
+    grid-template-areas:
+      ".    heading"
+      "meta article"
+      ".    comments";
+  }
+  > h1 {
+    grid-area: heading;
+    font-size: 2.5em;
+    letter-spacing: -1.75px;
+    line-height: 1.1;
+    font-weight: 300;
+    margin: 0;
+    padding: 30vh var(--layout-space) 1em var(--layout-space);
+    @media (min-width: 1000px) {
+      padding-left: 0;
+    }
+  }
+  .meta,
+  .article {
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+  .meta {
+    border-top: 1px solid var(--primary-color);
+    color: var(--grey);
+    padding: var(--layout-space);
+    padding-bottom: 0;
+    @media (min-width: 1000px) {
+      padding-top: 1.7em;
+      grid-area: meta;
+      text-align: right;
+      margin: 0;
+    }
+  }
+  .article {
+    padding: 0 var(--layout-space);
+    @media (min-width: 1000px) {
+      padding-left: 0;
+      grid-area: article;
+      border-top: 1px solid var(--primary-color);
+    }
+  }
+  .footnotes {
+    font-style: italic;
+    margin-top: calc(2 * var(--layout-space));
+  }
+  .footnote-backref {
+    text-decoration: none;
+    visibility: hidden;
+    &::before {
+      /* To prevent iOS from using a weird emojiy font, switch out
+         character with same arrow with Unicode VARIATION SELECTOR-15 appended. */
+      content: '↩︎';
+      visibility: visible;
+    }
+  }
+}
+
+.blog-index {
+  border-top: 1px solid var(--primary-color);
+  margin: 0;
+  padding: calc(2 * var(--layout-space)) var(--layout-space) 0
+    var(--layout-space);
+  @media (min-width: 1000px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  > li {
+    list-style-type: none;
+    margin-bottom: 2em;
+    @media (min-width: 1000px) {
+      display: grid;
+      grid-template-columns: var(--columns);
+      > a {
+        padding-right: var(--layout-space);
+      }
+    }
+  }
+
+  .post-link {
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    &:not(:hover) {
+      text-decoration: none;
+    }
+  }
+
+  .post-date {
+    font-size: 15px;
+    color: var(--grey);
+    @media (min-width: 1000px) {
+      padding-right: var(--layout-space);
+      text-align: right;
+    }
+  }
+}
