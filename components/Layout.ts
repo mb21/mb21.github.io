@@ -23,9 +23,13 @@ export const Layout = (props: Props) => {
           html`<link rel="alternate" type="application/atom+xml" href="/blog/feed.xml">`}
       </head>
       <body data-syntax-theme="github">
-        <header class="site-header">
-          <a href="/">Mauro Bieg</a>
-        </header>
+        ${pathname !== "/" && html`
+          <header class="site-header">
+            ${pathname === "/blog/"
+              ? html`<a href="/">Mauro Bieg</a>`
+              : html`<a href="/blog/">Blog</a>`}
+          </header>
+        `}
 
         <main>
           ${props.children}
