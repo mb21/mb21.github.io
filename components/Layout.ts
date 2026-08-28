@@ -23,19 +23,33 @@ export const Layout = (props: Props) => {
           html`<link rel="alternate" type="application/atom+xml" href="/blog/feed.xml">`}
       </head>
       <body data-syntax-theme="github">
-        ${pathname !== "/" && html`
-          <header class="site-header">
-            ${pathname === "/blog/"
-              ? html`<a href="/">Mauro Bieg</a>`
-              : html`<a href="/blog/">Blog</a>`}
-          </header>
-        `}
+        <header class="site-header">
+          <label class="color-picker">
+            <span>What's your favourite color?</span>
+            <input type="color" value="#e60000" id="picker">
+          </label>
+          ${pathname === "/blog/"
+            ? html`<a href="/">Mauro Bieg</a>`
+            : html`<a href="/blog/">Blog</a>`}
+        </header>
 
         <main>
           ${props.children}
         </main>
 
         ${Footer()}
+
+        <script>
+          const setColor = val => document.documentElement.style.setProperty("--primary-color", val);
+          const picker = document.getElementById("picker");
+          picker.value = localStorage.getItem("color") || "#e60000";
+          setColor(picker.value);
+          picker.addEventListener("input", e => {
+            const { value } = e.target;
+            setColor(value);
+            localStorage.setItem("color", value);
+          });
+        </script>
       </body>
     </html>
   `;
