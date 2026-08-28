@@ -5,14 +5,16 @@ PDF: https://mb21.github.io/cv/cv.pdf
 
 # Summary
 
-I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy getting hands-on with the product, crafting code, and finding solutions that are as simple as possible, but no simpler. Yet what is the product without the team building and iterating on it? Nothing but dead code. I can provide leadership and mentorship, fostering an environment where the team feels safe to grow and experiment in.
+I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy being hands-on, and finding solutions that are as simple as possible, but no simpler.
+But the product is only a manifestation of the team building it.
+I can provide leadership and mentorship, fostering an environment where the team feels safe to grow, experiment, and iterate.
 
 
 # Employment
 
-### Since 2025: Senior full-stack engineer at [Everyman](https://everyman.health/), Zürich
+### Since 2025: Senior Full-Stack Engineer at [Everyman](https://everyman.health/), Zürich
 
-- As the second engineer at the fast growing startup, I help stabilize and evolve the tech stack.
+- As the third engineer at the fast growing startup, I help evolve both the patient-facing website and app, and the internal platform.
 
 ### 2023-2025: CTO at [Spatz](https://www.spatz.news) (formerly Polaris News), Zürich
 
@@ -65,7 +67,7 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
 
 # Select Projects
 
-- 2025: Created [Mastro](https://mastrojs.github.io/) – a static site generator and web framework built from first principles.
+- 2025: Created [Mastro](https://mastrojs.github.io/) – a no-dependencies, no-build-step static site generator and web framework.
 
 - 2014-2021: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter.
 
@@ -88,7 +90,7 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
   - Databases and services: PostgreSQL, MongoDB Atlas, AWS (S3, CloudFront, Beanstalk, EC2), [Datadog cloud monitoring](https://www.datadoghq.com), GitHub, GitLab, CircleCI, Netlify
   - [OpenAPI](https://www.openapis.org) ([tsoa API](https://tsoa-community.github.io/docs/) and [client generation](https://github.com/mb21/openapi-typescript-codegen/)), Storybook, JWTs, HTTP streaming (for both HTML and JSON/SSE), unit- and integration tests
 
-- Open source: [github.com/mb21](https://github.com/mb21) and active on [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>40k rep)
+- Open source: [github.com/mb21](https://github.com/mb21) and [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>40k rep)
 
 - Writing: [mb21.github.io/blog](https://mb21.github.io/blog/)
 
