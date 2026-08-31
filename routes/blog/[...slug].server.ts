@@ -13,11 +13,11 @@ export const GET = async (req: Request) => {
       title: post.meta.title,
       req,
       children: html`
-        <div class="post-page">
+        <div class="text-page">
 
           <h1>${post.meta.title}</h1>
-          <p class="meta">${fmtDate(post.meta.date)}</p>
-          <div class="article">
+          <p>${fmtDate(post.meta.date)}</p>
+          <div>
             ${post.content}
           </div>
 

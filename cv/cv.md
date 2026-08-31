@@ -3,8 +3,6 @@ author: Mauro Bieg
 PDF: https://mb21.github.io/cv/cv.pdf
 ---
 
-# Summary
-
 I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy being hands-on, and finding solutions that are as simple as possible, but no simpler.
 But the product is only a manifestation of the team building it.
 I can provide leadership and mentorship, fostering an environment where the team feels safe to grow, experiment, and iterate.
@@ -42,7 +40,6 @@ I can provide leadership and mentorship, fostering an environment where the team
 - 2017-2018: Haskell developer for [qua-kit](https://github.com/achirkin/qua-kit) at the Chair of Information Architecture, ETH Zürich
 
 - 2015: Software engineer at _[mp technology](http://www.mptechnology.ch/)_, Zürich
-<!--Java and AngularJS-->
 
 - 2014: Internship at _[Silk](https://web.archive.org/web/20170327165214/https://www.silk.co/)_, Amsterdam, The Netherlands
 
@@ -63,27 +60,20 @@ I can provide leadership and mentorship, fostering an environment where the team
 
 - 1995–2003: Basic education in Horn, Switzerland
 
-\newpage
 
 # Select Projects
 
-- 2025: Created [Mastro](https://mastrojs.github.io/) – a no-dependencies, no-build-step static site generator and web framework.
+- 2025: [Mastro](https://mastrojs.github.io/) – a no-dependencies, no-build-step static site generator and web framework.
 
 - 2014-2021: [regular contributor](https://github.com/jgm/pandoc/commits?author=mb21) to [pandoc](https://pandoc.org), a universal document converter.
 
 - 2019: [PanWriter](https://panwriter.com), a Markdown editor with pandoc integration.
 
-<!--
-- 2018: LED matrix display for Impact Hub Zürich – Python on Raspberry Pi
-
-- 2014: [Master thesis](https://github.com/mb21/api-explorer): a GUI tool to map any JSON-based Web API, plus a Node.js-based server to access it as if it were a HAL Hypermedia API
--->
-
 
 # Experience
 
 - Programming languages:
-  - extensive experience: TypeScript/JavaScript (React, Solid, Astro, Next.js, Express.js, kysely), Haskell, Ruby (Rails and Jekyll), Python, HTML/CSS, SQL
+  - extensive experience: TypeScript/JavaScript (Astro, Solid, React, Next.js, Express.js, kysely), Haskell, Ruby (Rails and Jekyll), Python, HTML/CSS, SQL
   - some experience: Rust, Java, PHP, C/C++
 
 - Technologies used in production:

@@ -28,9 +28,9 @@ export const Layout = (props: Props) => {
             <span>What's your favourite color?</span>
             <input type="color" value="#e60000" id="picker">
           </label>
-          ${pathname === "/blog/"
-            ? html`<a href="/">Mauro Bieg</a>`
-            : html`<a href="/blog/">Blog</a>`}
+          ${pathname.startsWith("/blog/") && pathname !== "/blog/"
+            ? html`<a href="/blog/">Blog</a>`
+            : pathname !== "/" && html`<a href="/">Home</a>`}
         </header>
 
         <main>

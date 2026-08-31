@@ -7,26 +7,24 @@ export const GET = (req: Request) =>
       title: "",
       req,
       children: html`
-        <div class="post-page home">
+        <div class="text-page -home">
           <h1>
             <img src="/assets/me.jpg" alt="" width="150" height="150">
             Hi, I’m Mauro 👋🏽
           </h1>
-          <p class="meta">
-            <a href="/cv/cv.pdf">CV (PDF)</a>
+          <p>
+            <a href="/cv/">CV</a> |
+            <a href="/cv/cv.pdf">(PDF)</a>
           </p>
-          <div class="article">
-            <p><strong>I debug teams and their code.</strong></p>
-
-            <p>I’m based in Zürich, Switzerland. Available for hire as:
+          <div>
+            <p><strong>I debug teams and their code.</strong> Hire me as your:</p>
 
             <h2>Fractional CTO</h2>
             <p>As a coach or part-time CTO, I can help your startup…</p>
             <ul>
-              <li>go from zero to MVP,</li>
-              <li>go from MVP to a scalable product,</li>
+              <li>go from zero to MVP, or from MVP to a scalable product,</li>
               <li>figure out what (not) to build,</li>
-              <li>hire a team.</li>
+              <li>hire a team, etc.</li>
             </ul>
 
             <h2>Team lead</h2>
@@ -43,6 +41,7 @@ export const GET = (req: Request) =>
             <li>designing high-quality software that serves as a solid foundation for fast feedback loops of learnings.</li>
             </ul>
 
+            <p>I’m based in Zürich, Switzerland, and also speak German natively.</p>
             <p>Does any of that sound like what you need?</p>
             <p>
               Let’s chat!<br>

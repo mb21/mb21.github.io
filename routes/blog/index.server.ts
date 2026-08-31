@@ -13,8 +13,8 @@ export const GET = async (req: Request) => {
           ${posts.reverse().map((post) =>
             html`
               <li>
-                <div class="post-date">${fmtDate(post.meta.date)}</div>
-                <a class="post-link" href="${post.slug}">${post.meta.title}</a>
+                <div>${fmtDate(post.meta.date)}</div>
+                <a href="${post.slug}">${post.meta.title}</a>
               </li>
             `
           )}
