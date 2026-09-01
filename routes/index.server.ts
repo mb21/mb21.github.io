@@ -38,6 +38,7 @@ export const GET = (req: Request) =>
             <p>I love…</p>
             <ul>
             <li>building beautiful, performant, and accessible websites and apps,</li>
+            <li>talking directly to stakeholders, simplify complex requirements, and ship the resulting product,</li>
             <li>designing high-quality software that serves as a solid foundation for fast feedback loops of learnings.</li>
             </ul>
 
@@ -45,7 +46,7 @@ export const GET = (req: Request) =>
             <p>Does any of that sound like what you need?</p>
             <p>
               Let’s chat!<br>
-              <a href="mailto:mauro.bieg@gmail.com?subject=Project inquiry">mauro.bieg@gmail.com</a> |
+              <a href="mailto:mauro.bieg@gmail.com?subject=Project%20inquiry">mauro.bieg@gmail.com</a> |
               <a href="https://www.linkedin.com/in/mauro-bieg/">LinkedIn</a> |
               <a href="https://bsky.app/profile/mb21.bsky.social">Bluesky</a>
             </p>

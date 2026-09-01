@@ -1,6 +1,6 @@
 ---
 author: Mauro Bieg
-PDF: https://mb21.github.io/cv/cv.pdf
+PDF: https://maurobieg.com/cv/cv.pdf
 ---
 
 I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy being hands-on, and finding solutions that are as simple as possible, but no simpler.
@@ -82,7 +82,7 @@ I can provide leadership and mentorship, fostering an environment where the team
 
 - Open source: [github.com/mb21](https://github.com/mb21) and [stackoverflow.com/users/214446](http://stackoverflow.com/users/214446/mb21) (>40k rep)
 
-- Writing: [mb21.github.io/blog](https://mb21.github.io/blog/)
+- Writing: [maurobieg.com/blog](https://maurobieg.com/blog/)
 
 - Talks: [Pandoc at HaskellerZ](https://www.youtube.com/watch?v=pvWG4OgkZes)
 
