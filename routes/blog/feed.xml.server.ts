@@ -1,7 +1,7 @@
 import { atomResponse } from "@mastrojs/feed";
 import { getBlogPosts } from "../../helpers/helpers.ts";
 
-const baseUrl = "https://mb21.github.io/blog/";
+const baseUrl = "https://maurobieg.com/blog/";
 
 export const GET = async () => {
   const posts = await getBlogPosts();

@@ -1,6 +1,6 @@
 ## My CV
 
-- [PDF](https://mb21.github.io/cv/cv.pdf)
+- [PDF](https://maurobieg.com/cv/cv.pdf)
 - [Markdown](cv.md)
 
 ---

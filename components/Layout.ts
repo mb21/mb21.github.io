@@ -15,7 +15,7 @@ export const Layout = (props: Props) => {
       <head>
         <title>${props.title ? `${props.title} | ` : ""}Mauro Bieg</title>
         <link rel="stylesheet" href="/assets/styles.css">
-        <link rel="canonical" href=${pathname}>
+        <link rel="canonical" href=${pathname.endsWith(".html") ? pathname.slice(0, -5) : pathname}>
         <meta name="viewport" content="width=device-width">
         <meta name="description" content="I debug teams and their code.">
         <meta property="og:image" content="/assets/mb21.png">
