@@ -27,14 +27,15 @@ export const GET = (req: Request) =>
               <li>hire a team, etc.</li>
             </ul>
 
-            <h2>Team lead</h2>
+            <h2>Team Lead</h2>
             <p>I mentor and lead teams in organizations large and small…</p>
             <ul>
               <li>transforming a struggling team into one that punches above its weight,</li>
+              <li>building a collaborative culture of learning, </li>
               <li>cleaning up technical, organizational or cognitive debt.</li>
             </ul>
 
-            <h2>Full-Stack Engineer</h2>
+            <h2>Full-Stack Product Engineer</h2>
             <p>I love…</p>
             <ul>
             <li>building beautiful, performant, and accessible websites and apps,</li>

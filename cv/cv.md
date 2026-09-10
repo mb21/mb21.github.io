@@ -4,7 +4,7 @@ PDF: https://maurobieg.com/cv/cv.pdf
 ---
 
 I studied Computer Science at ETH Zürich (BSc and MSc) and have been working with code and people for over a decade. I enjoy being hands-on, and finding solutions that are as simple as possible, but no simpler.
-But the product is only a manifestation of the team building it.
+But products are built by teams, not individuals.
 I can provide leadership and mentorship, fostering an environment where the team feels safe to grow, experiment, and iterate.
 
 
