@@ -38,7 +38,7 @@ export const GET = (req: Request) =>
             <h2>Full-Stack Product Engineer</h2>
             <p>I love…</p>
             <ul>
-            <li>building beautiful, performant, and accessible websites and apps,</li>
+            <li>building beautiful, user-friendly, performant, and accessible websites, apps and design systems,</li>
             <li>talking directly to stakeholders, simplify complex requirements, and ship the resulting product,</li>
             <li>designing high-quality software that serves as a solid foundation for fast feedback loops of learnings.</li>
             </ul>

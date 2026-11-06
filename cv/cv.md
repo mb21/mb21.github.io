@@ -10,7 +10,7 @@ I studied Computer Science at ETH Zürich (BSc and MSc) and have been working wi
 
 ### Since 2025: Senior Full-Stack Engineer at [Everyman](https://everyman.health/), Zürich
 
-- As the third engineer at the fast growing medical startup, I worked on front- and back-end of the next iteration of the patient-facing website/app, as well as the the internal platform for doctors, pharmacists and customer support – using Astro, React, TypeScript, PostgreSQL, Claude, etc.
+- As the third engineer at the fast growing medical startup, I worked on front- and back-end of the next iteration of the patient-facing website/app, as well as the the internal platform for doctors, pharmacists and customer support – using Astro, React, TypeScript, PostgreSQL, Claude AI, etc.
 
 ### 2023-2025: CTO at [Spatz](https://www.spatz.news) (formerly Polaris News), Zürich
 
