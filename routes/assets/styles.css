@@ -3,10 +3,15 @@
   --text-color: #1a1a1a;
   --text-color: contrast-color(contrast-color(var(--primary-color)));
   --grey: #818181;
-  --columns: 1fr 40em;
   --layout-space: 1.75rem;
   @media (min-width: 750px) {
     --layout-space: 3rem;
+  }
+  @media (min-width: 950px) {
+    --columns: 3.5fr minmax(0, 30em) 1fr;
+  }
+  @media (min-width: 1500px) {
+    --columns: 3.5fr minmax(0, 40em) 1fr;
   }
 }
 html {
@@ -15,7 +20,7 @@ html {
   height: 100%;
   color: var(--text-color);;
   font-size: 18px;
-  @media (min-width: 1000px) {
+  @media (min-width: 950px) {
     font-size: 20px;
   }
 }
@@ -50,7 +55,7 @@ img {
 ol, ul {
   margin-top: 1.7em;
   padding-left: 1.2em;
-  @media (min-width: 1000px) {
+  @media (min-width: 950px) {
     padding-left: 0;
   }
 }
@@ -63,7 +68,7 @@ blockquote {
   padding-left: 1.25em;
   border-left: 2px solid #e6e6e6;
   font-style: italic;
-  @media (min-width: 1000px) {
+  @media (min-width: 950px) {
     &:has(> ol) {
       margin-right: 1.75em;
       padding-left: 1.75em;
@@ -163,13 +168,13 @@ footer {
 }
 
 .text-page {
-  @media (min-width: 1000px) {
+  @media (min-width: 950px) {
     display: grid;
     grid-template-columns: var(--columns);
     grid-template-areas:
-      ".    heading"
-      "meta article"
-      ".    comments";
+      ".    heading  heading"
+      "meta article  margin"
+      ".    comments margin";
   }
   > h1 {
     grid-area: heading;
@@ -179,8 +184,9 @@ footer {
     font-weight: 300;
     margin: 0;
     padding: 30vh var(--layout-space) 1em var(--layout-space);
-    @media (min-width: 1000px) {
+    @media (min-width: 950px) {
       padding-left: 0;
+      border-bottom: 1px solid var(--primary-color);
     }
   }
   > p {
@@ -189,7 +195,7 @@ footer {
     color: var(--grey);
     padding: var(--layout-space);
     padding-bottom: 0;
-    @media (min-width: 1000px) {
+    @media (min-width: 950px) {
       padding-top: 1.7em;
       grid-area: meta;
       text-align: right;
@@ -199,10 +205,9 @@ footer {
   > div {
     font-family: Georgia, 'Times New Roman', serif;
     padding: 0 var(--layout-space);
-    @media (min-width: 1000px) {
+    @media (min-width: 950px) {
       padding-left: 0;
       grid-area: article;
-      border-top: 1px solid var(--primary-color);
     }
   }
   .footnotes {
@@ -223,14 +228,6 @@ footer {
   &.-cv {
     > div > ul > li {
       list-style-type: none;
-    }
-  }
-  &.-home {
-    @media (max-width: 1300px) {
-      --columns: 1fr 2fr;
-    }
-    @media (min-width: 1300px) and (max-width: 1800px) {
-      --columns: 1fr 1fr;
     }
   }
   &.-cv, &.-home {
@@ -262,7 +259,7 @@ footer {
   border-top: 1px solid var(--primary-color);
   margin: 0;
   padding: calc(2 * var(--layout-space)) var(--layout-space) 0 var(--layout-space);
-  @media (min-width: 1000px) {
+  @media (min-width: 950px) {
     padding-left: 0;
     padding-right: 0;
   }
@@ -270,7 +267,7 @@ footer {
   li {
     list-style-type: none;
     margin-bottom: 2em;
-    @media (min-width: 1000px) {
+    @media (min-width: 950px) {
       display: grid;
       grid-template-columns: var(--columns);
       > a {
@@ -292,8 +289,8 @@ footer {
   div {
     font-size: 15px;
     color: var(--grey);
-    @media (min-width: 1000px) {
-      padding-right: var(--layout-space);
+    @media (min-width: 950px) {
+      padding: 0 var(--layout-space);
       text-align: right;
     }
   }
